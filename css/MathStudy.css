@@ -8,7 +8,7 @@ body {
   width: 951px;
   height: 809px;
   border-radius: 15px;
-  background: url(/img/MathStudy/MathStudyForm.png) no-repeat center;
+  background: url(../img/MathStudy/MathStudyForm.png) no-repeat center;
   overflow: hidden;
 }
 
@@ -65,7 +65,7 @@ body {
   top: 820px;
   position: relative;
   border-radius: 15px;
-  background: url(/img/MathStudy/QuizFrom.png) no-repeat center;
+  background: url(../img/MathStudy/QuizFrom.png) no-repeat center;
   transition: 0.5s;
 }
 
@@ -111,6 +111,6 @@ body {
   top: 73%;
   right: 50px;
   position: absolute;
-  background: url(/img/MathStudy/StopQuiz.png) no-repeat center;
+  background: url(../img/MathStudy/StopQuiz.png) no-repeat center;
   cursor: pointer;
 }

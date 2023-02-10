@@ -13,21 +13,21 @@ let quiz_animal_answer = ["SNAKE", "PIGEON", "HEDGEHOG", "RABBIT", "PANDA"];
 let quiz_exercise_answer = ["WRESTLING", "RUNNING", "SKATE", "TENNIS", "RUGBY"];
 
 let quiz_animal_img = [
-  "/img/Quiz/Q-1.png",
-  "/img/Quiz/Q-2.png",
-  "/img/Quiz/Q-3.png",
-  "/img/Quiz/Q-4.png",
-  "/img/Quiz/Q-5.png",
-  "/img/Quiz/Q-5.png",
+  "../img/Quiz/Q-1.png",
+  "../img/Quiz/Q-2.png",
+  "../img/Quiz/Q-3.png",
+  "../img/Quiz/Q-4.png",
+  "../img/Quiz/Q-5.png",
+  "../img/Quiz/Q-5.png",
 ];
 
 let quiz_exercise_img = [
-  "/img/Quiz/Q-6.png",
-  "/img/Quiz/Q-7.png",
-  "/img/Quiz/Q-8.png",
-  "/img/Quiz/Q-9.png",
-  "/img/Quiz/Q-10.png",
-  "/img/Quiz/Q-10.png",
+  "../img/Quiz/Q-6.png",
+  "../img/Quiz/Q-7.png",
+  "../img/Quiz/Q-8.png",
+  "../img/Quiz/Q-9.png",
+  "../img/Quiz/Q-10.png",
+  "../img/Quiz/Q-10.png",
 ];
 
 // 데이터
