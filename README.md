@@ -19,7 +19,12 @@
 ![Layer 3](https://user-images.githubusercontent.com/118651919/218112775-2c2c6508-3c5c-4dea-a061-484019a5ab91.png)
 ![Layer 4](https://user-images.githubusercontent.com/118651919/218112785-96ee98d2-c528-4d5f-902d-bc2ad5301bdf.png)
 ![Layer 5](https://user-images.githubusercontent.com/118651919/218112792-fad9e782-41a5-4163-bdda-8b358928788f.png)
+● 각 메인화면<br><br>
+![Layer 1](https://user-images.githubusercontent.com/118651919/218114733-d54e85b8-7be3-4ee5-81af-115ff62a9a45.png)
+![Layer 2](https://user-images.githubusercontent.com/118651919/218115853-c844b911-7e67-4fce-b784-1edc42a82c03.png)● 게임화면<br><br>
 
 ### 한글, 영어, 숫자 퀴즈 <br>
-
+- 각 게임의 문제는 5문제로 이루어져있습니다.
+- 정답 시 점수에 100점씩 추가 됩니다.
+- 오답 시 목숨이 -1씩 감소 됩니다. 목숨이 0개 일시 게임이 종료됩니다.
 
