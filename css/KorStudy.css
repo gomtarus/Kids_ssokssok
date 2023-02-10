@@ -1,0 +1,107 @@
+body {
+  background-color: rgb(245, 245, 245);
+  overflow: hidden;
+}
+
+.quiz_main {
+  margin: 30px auto;
+  width: 951px;
+  height: 809px;
+  border-radius: 15px;
+  background: url(../img/KorStudy/KorStudyForm.png) no-repeat center;
+  overflow: hidden;
+}
+
+.quiz_btn_wrap {
+  width: calc(100% / 2);
+  height: 809px;
+  float: left;
+  position: relative;
+}
+
+.quiz_btn_wrap > img {
+  width: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.quiz_btn_wrap > img:hover {
+  width: 70%;
+}
+
+.quiz_btn_wrap > .start_btn {
+  width: 200px;
+  height: 70px;
+  top: 106%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  background-color: #71d0ff;
+  border-radius: 50px;
+  transition: 0.5s;
+}
+
+.quiz_btn_wrap > .start_btn:hover {
+  background-color: #48afe2;
+}
+
+.quiz_btn_wrap > .start_btn > p {
+  text-align: center;
+  font-size: 45px;
+  color: white;
+  padding: 12px 0px;
+  cursor: pointer;
+}
+
+.quiz {
+  margin: 0 auto;
+  width: 951px;
+  height: 809px;
+  top: 820px;
+  position: relative;
+  border-radius: 15px;
+  background: url(../img/KorStudy/QuizFrom.png) no-repeat center;
+  transition: 0.5s;
+}
+
+.quiz > .quiz_input {
+  text-align: center;
+  font-size: 45px;
+  border-radius: 100px;
+  border: none;
+  outline: none;
+  position: absolute;
+  color: #383838;
+}
+
+.state {
+  width: 161px;
+  height: 55px;
+}
+
+.quiz_answer {
+  width: 538px;
+  height: 123px;
+}
+
+.quiz_img {
+  width: 951px;
+  height: 809px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.quiz_stop_btn {
+  width: 85px;
+  height: 166px;
+  top: 73%;
+  right: 50px;
+  position: absolute;
+  background: url(../img/KorStudy/StopQuiz.png) no-repeat center;
+  cursor: pointer;
+}
