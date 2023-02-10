@@ -28,3 +28,6 @@
 - 정답 시 점수에 100점씩 추가 됩니다.
 - 오답 시 목숨이 -1씩 감소 됩니다. 목숨이 0개 일시 게임이 종료됩니다.
 
+<br><br> 
+### 🌍 [키즈쏙쏙](https://gomtarus.github.io/Kids_ssokssok/main.html)
+
