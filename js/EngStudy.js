@@ -102,7 +102,7 @@ function enter() {
     }
     // 정답 입력이 없을 떄
     else {
-      if ($("#answer").val() == quiz_answer[quiz_count]) {
+      if ($("#answer").val().toUpperCase() == quiz_answer[quiz_count]) {
         $("#score").attr("value", (quiz_score += 100));
         $("#answer").val("");
         $("#quiz_img").css(
